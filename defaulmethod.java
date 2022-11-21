@@ -46,7 +46,7 @@ class MySmartPhone extends MyCellPhone implements MyWifi, MyCamera{
         System.out.println("Connecting to " + network);
     }
 }
-public class cwh_57_default_methods {
+public class defaulmethod {
     public static void main(String[] args) {
         MySmartPhone ms = new MySmartPhone();
         ms.record4KVideo();

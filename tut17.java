@@ -82,7 +82,7 @@ public class tut17 {
         //print x^n (stack height = logn)
         int n = 10;
         int x = 8;
-        System.out.println(logn(x, n);); 
+        System.out.println(logn(x, n));;
 
     }
 }
